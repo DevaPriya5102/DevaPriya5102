@@ -79,7 +79,7 @@
 ---
 
 ## 📬 Let's Connect
-- **Email**: [dmankena@mtu.edu](mailto:mvrao4567@gmail.com)
+- **Email**: [mvrao4567@gmail.com](mailto:mvrao4567@gmail.com)
 - **LinkedIn**: [Deva Priya Mankena](https://www.linkedin.com/in/deva-priya-mankena-0b9152198)
 - **Portfolio**: [Portfolio](https://pages.mtu.edu/~dmankena/)
 - **Phone**: (906) 370-3092
