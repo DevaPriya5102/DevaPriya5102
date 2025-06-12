@@ -7,7 +7,7 @@ I recently completed my Master’s in Data Science at Michigan Technological Uni
 
 My journey into AI began not just with code, but with questions: How do machines understand language? How can learning systems adapt across domains? These questions led me from classical ML models to deep learning, and eventually to large language models, agentic workflows, and real-time intelligent applications.
 
-Over the last few years, I’ve worked on a broad range of projects — from simulating optical interference patterns for scientific sensing, to fine-tuning LLMs using QLoRA, building agent-powered feedback analyzers, and deploying multilingual document interpreters. I specialize in creating AI solutions that are scalable, explainable, and impactful.
+Over the last few years, I’ve worked on a broad range of projects — from simulating optical interference patterns for scientific sensing, to fine-tuning LLMs, building agent-powered feedback analyzers, and deploying multilingual document interpreters. I specialize in creating AI solutions that are scalable, explainable, and impactful.
 
 Whether through academic research or production-ready prototypes, I’m driven by one goal: to turn cutting-edge models into meaningful tools that solve real-world problems. If you’re looking for someone who blends research depth with practical execution — let’s connect.
 
