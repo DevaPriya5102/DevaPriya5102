@@ -1,92 +1,87 @@
-# Hi there! 👋 I'm Deva Priya Mankena
+# Hi, I'm Deva Priya Mankena  
+**Engineer | AI Researcher | Builder of Intelligent Systems**
 
-## About Me
-- 🎓 **Graduate Student** pursuing an MS in Data Science at Michigan Technological University (GPA: 3.8).
-- 🔍 Passionate about exploring cutting-edge data science techniques and applying them to real-world challenges.
-- 🌟 Experienced in working with advanced AI models and tools to solve complex problems in text classification, image classification, and natural language processing.
-
----
-
-## 🚀 Professional Experience
-### **Intern at Verzeo**
-- Gained hands-on experience with various text classification tools and techniques.
-- Utilized **Natural Language Processing (NLP)** tools to classify text data effectively.
-- Applied large language models to enhance the text classification process.
-
-### **Intern at Technex, IIT (BHU)**
-- Explored tools and techniques to derive insights from datasets and predict future outcomes.
-- Worked on a **Credit Card Eligibility Prediction** project using financial and behavioral data.
-- Enhanced skills in predictive modeling and decision-making in financial services.
-- Gained valuable exposure to real-world applications of data science.
+Welcome to my GitHub — where science meets real-world AI.  
+I specialize in developing scalable machine learning solutions, fine-tuning LLMs, and designing agentic workflows to solve meaningful problems across domains.
 
 ---
 
-## 💼 Project Experience
-### **Retrieval Augmented Generation**
-- Utilized the **Gemma 2B model** and **FAISS** for storing vector representations of data.
-- Implemented vector embeddings to retrieve and generate answers based on relevant questions.
-- Key contributions included data ingestion, transformation, and integration with FAISS for efficient retrieval and accurate responses.
+## My Focus  
+As a Data Science graduate student and AWS-certified Machine Learning Specialist, I bring a research-driven yet application-focused mindset to building intelligent systems. I work at the intersection of deep learning, natural language processing, and generative AI — turning complex models into practical, usable tools that serve users and industries alike.
 
-### **Next Word Prediction**
-- Developed an LSTM-based model to predict the next word in a sentence.
-- Trained on a large text corpus to capture long-term dependencies and learn context effectively.
-- Suggested the most likely next word based on the learned context.
-
-### **Language Translation**
-- Used the **Llama 3 model** and implemented **Langchain** for effective querying and seamless communication.
-- Streamlined communication using `langchain_core.message` and ensured clear, structured output with `langchain_core.output_parser`.
-- Improved user experience through efficient translation processes.
-
-### **Text Summarization**
-- Leveraged the **Gemma model** for summarizing text efficiently.
-- Fine-tuned the model on a large corpus to identify key sentences and generate concise summaries.
-- Utilized a transformer-based architecture to produce accurate, human-like summaries with high relevance.
+From simulating petal interference patterns using orbital angular momentum (OAM) beams to deploying multi-agent LLM-based chat systems, I’ve built a portfolio that reflects **scientific rigor, engineering depth, and user-centric thinking**.
 
 ---
 
-## 🛠️ Skills
-### **Python Libraries**
-- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy, Plotly, XGBoost.
+## What I Excel At  
 
-### **Data Analysis**
-- Data Wrangling, Feature Extraction, Feature Engineering, Exploratory Data Analysis (EDA), Data Visualization.
+**LLMs and GenAI Applications**  
+- Fine-tuning and deploying models like GPT, LLaMA, Claude, DeepSeek using QLoRA and instruction tuning  
+- Building RAG pipelines with FAISS/Chroma and LangChain to enable context-aware information retrieval  
 
-### **Machine Learning**
-- Regression, Classification, Clustering, Model Selection, Evaluation, Hyperparameter Tuning, Deployment, Monitoring, and Maintenance.
+**Agentic AI Systems**  
+- Designing autonomous workflows using CrewAI, AutoGen, and LangGraph to coordinate intelligent task execution  
 
-### **Text Classification**
-- Data Collection, Text Preprocessing, Syntactic and Semantic Analysis, Language Modeling, Model Building, RNNs.
+**Scientific Modeling & Simulation**  
+- Conducting AI-driven optical simulations (OAM beams & petal generation) to support research in sensing technologies  
 
-### **Image Classification**
-- Data Preprocessing, Automatic Feature Extraction, Deep Learning Modeling, Model Evaluation, CNNs.
+**ML Engineering & MLOps**  
+- Data wrangling, supervised learning, model evaluation, and deployment on AWS/GCP using Docker and Streamlit  
 
-### **Generative AI (GenAI)**
-- GPT, BERT, LLaMA, Gemma, Pretraining, Fine-Tuning, Prompt Engineering, Transfer Learning.
-
----
-
-## 📘 Course Work
-- Statistical Analysis using R and SAS
-- Database Systems
-- Introduction to Data Science
-- Machine Learning
-- Advanced Data Mining
-- Information Systems Management and Data Analytics
-- Predictive Modeling
-- Computational Intelligence
-- Big Data Analytics
+**Natural Language Processing**  
+- Building NLP pipelines for classification, summarization, translation, and NLU across multilingual datasets
 
 ---
 
-## 📬 Let's Connect
-- **Email**: [mvrao4567@gmail.com](mailto:mvrao4567@gmail.com)
-- **LinkedIn**: [Deva Priya Mankena](https://www.linkedin.com/in/deva-priya-mankena-0b9152198)
-- **Portfolio**: [Portfolio](https://pages.mtu.edu/~dmankena/)
-- **Phone**: (906) 370-3092
+## Selected Projects
+
+**AudioScribe AI**  
+End-to-end system for extracting transcripts from YouTube videos using Whisper and answering user questions using GPT-4o with a Chroma-powered RAG backend.  
+
+**OAM Petal Dataset & Simulation**  
+Generated 50K+ synthetic petal images using simulated OAM beam interference patterns, enabling AI models to detect angular shifts for future sensing applications.
+
+**Customer Feedback Analyzer (Agent-Based)**  
+Multi-agent system for audio transcription, sentiment analysis, and keyword extraction — deployed on Hugging Face Spaces for fast prototyping and decision support.
+
+**Instruction-Tuned Q&A Bot**  
+Fine-tuned the Phi-3 Mini model on scraped academic content using CrewAI and QLoRA for educational Q&A systems.
+
+**Next Word Prediction with BiLSTM**  
+Trained a bidirectional LSTM model on classical text to explore sequential modeling — achieving strong performance in contextual prediction.
 
 ---
 
-🌟 **Quote I Live By**: _"Exploration and learning are the keys to innovation."_ ✨
+## Skills Snapshot  
 
-Happy Coding! 🚀
+**Languages**: Python, R, C++, SQL  
+**Frameworks**: Hugging Face, LangChain, AutoGen, CrewAI, Streamlit, Gradio  
+**AI Techniques**: RNNs, LSTMs, CNNs, Transformers, Fine-Tuning, Prompt Engineering, Embedding Models  
+**Deployment**: Docker, AWS SageMaker, Azure, Hugging Face Spaces  
+**Databases**: SQL, FAISS, Chroma, Pinecone  
+**Tools**: DeepEval, RAGAS, Tableau, Git, GitHub  
 
+---
+
+## Certifications  
+- AWS Certified Machine Learning – Specialty  
+- AWS AI Practitioner  
+- Generative AI with LangChain & Hugging Face – Udemy  
+
+---
+
+## Education  
+**MS in Data Science**, Michigan Technological University  
+Aug 2023 – Apr 2025 | GPA: 3.85
+
+---
+
+## Let’s Connect  
+I'm open to new roles, collaborative projects, or simply exchanging ideas on LLMs, GenAI, and applied AI research. Feel free to connect or reach out!
+
+**LinkedIn**: [linkedin.com/in/deva-priya-mankena-0b9152198](https://www.linkedin.com/in/deva-priya-mankena-0b9152198)  
+**Email**: mvrao4567@gmail.com  
+**Portfolio**: [pages.mtu.edu/~dmankena](https://pages.mtu.edu/~dmankena)  
+**GitHub**: [github.com/DevaPriya5102](https://github.com/DevaPriya5102)
+
+> “My goal is to turn complex models into meaningful impact.”  
