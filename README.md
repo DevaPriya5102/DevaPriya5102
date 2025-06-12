@@ -1,8 +1,15 @@
 # Hi, I'm Deva Priya Mankena  
-**Engineer | AI Researcher | Builder of Intelligent Systems**
+**Engineer | Researcher | Architect of Intelligent Systems**
 
-Welcome to my GitHub — where science meets real-world AI.  
-I specialize in developing scalable machine learning solutions, fine-tuning LLMs, and designing agentic workflows to solve meaningful problems across domains.
+Welcome to my GitHub — a curated showcase of my journey through the evolving world of Artificial Intelligence, where curiosity meets engineering, and research meets real-world impact.
+
+I recently completed my Master’s in Data Science at Michigan Technological University (April 2025), and I’m currently seeking full-time opportunities in Machine Learning, AI Engineering, or LLM-powered product development.
+
+My journey into AI began not just with code, but with questions: How do machines understand language? How can learning systems adapt across domains? These questions led me from classical ML models to deep learning, and eventually to large language models, agentic workflows, and real-time intelligent applications.
+
+Over the last few years, I’ve worked on a broad range of projects — from simulating optical interference patterns for scientific sensing, to fine-tuning LLMs using QLoRA, building agent-powered feedback analyzers, and deploying multilingual document interpreters. I specialize in creating AI solutions that are scalable, explainable, and impactful.
+
+Whether through academic research or production-ready prototypes, I’m driven by one goal: to turn cutting-edge models into meaningful tools that solve real-world problems. If you’re looking for someone who blends research depth with practical execution — let’s connect.
 
 ---
 
